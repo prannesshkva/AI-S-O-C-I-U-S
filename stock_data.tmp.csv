@@ -1,0 +1,2 @@
+symbol,date,price,volume,prediction,confidence,sentiment_score
+GOOGL,2025-12-14 12:08:29,142.7,28900000,UP,72,0.48
