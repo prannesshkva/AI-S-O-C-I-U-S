@@ -14,7 +14,7 @@ This repository contains the source code and configuration for **AI S-O-C-I-U-S*
 To get started with this project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Prannessh2006/Trade-Nexus-Analytics.git
+git clone https://github.com/prannesshkva/AI-S-O-C-I-U-S.git
 ```
 
 ---
