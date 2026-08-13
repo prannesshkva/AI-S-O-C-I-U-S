@@ -1,9 +1,9 @@
-# Trade Nexus Analytics
+# AI S-O-C-I-U-S
 
 > A clean and minimalistic repository.
 
 ## Overview
-This repository contains the source code and configuration for **Trade-Nexus-Analytics**. It has been organized with simplicity and minimalism in mind to ensure the codebase remains clean and approachable.
+This repository contains the source code and configuration for **AI S-O-C-I-U-S**. It has been organized with simplicity and minimalism in mind to ensure the codebase remains clean and approachable.
 
 ## Features
 - **Clean Architecture:** Straightforward file structure and clear separation of concerns.
