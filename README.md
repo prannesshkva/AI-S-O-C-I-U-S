@@ -18,4 +18,4 @@ git clone https://github.com/Prannessh2006/Trade-Nexus-Analytics.git
 ```
 
 ---
-*Maintained by [@Prannessh2006](https://github.com/Prannessh2006)*
+*Maintained by [@prannesshkva](https://github.com/prannesshkva/AI-S-O-C-I-U-S)*
